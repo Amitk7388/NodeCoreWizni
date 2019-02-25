@@ -36,7 +36,7 @@ projectName :
 managerId  :  
 employeeIds : 
 
-Note : if you want add multple ids of the employee it would be ids the comma and ids
+Note : if you want add multple ids of the employee it would be ids with the comma and ids. FrontEnd gie will understand how to select multiples and what data submit from the form
         for Example : "123456","1234776" (there should be no space after coma)
 
 
