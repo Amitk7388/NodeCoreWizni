@@ -1,5 +1,7 @@
 
-Without Express its Within Core nodejsand exporting any third party module
+Without Express its Within Core nodejs and without exporting any third party module
+
+PROJECT, MANAGER && EMPLOYEEE Aplication
 
 
 
