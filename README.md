@@ -1,3 +1,8 @@
+
+Without Express its Within Core nodejsand exporting any third party module
+
+
+
 start with = npm start || nodemon app.js
 
 All the api created in routes folder according to the projects
